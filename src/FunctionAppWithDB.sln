@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppWithDB", "FunctionAppWithDB\FunctionAppWithDB.csproj", "{9973EB38-1C48-45BF-A091-E9FC532CF199}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppWithDB.Shared", "FunctionAppWithDB.Shared\FunctionAppWithDB.Shared.csproj", "{731609A1-F190-47CC-A430-21FB4A0D07E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9973EB38-1C48-45BF-A091-E9FC532CF199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9973EB38-1C48-45BF-A091-E9FC532CF199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9973EB38-1C48-45BF-A091-E9FC532CF199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9973EB38-1C48-45BF-A091-E9FC532CF199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731609A1-F190-47CC-A430-21FB4A0D07E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731609A1-F190-47CC-A430-21FB4A0D07E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731609A1-F190-47CC-A430-21FB4A0D07E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731609A1-F190-47CC-A430-21FB4A0D07E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFC894C-9EF1-4EE0-A308-34A4AA8EFCEE}
+	EndGlobalSection
+EndGlobal
